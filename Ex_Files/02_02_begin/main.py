@@ -10,3 +10,22 @@ greet_format = "Hello {}"
 formatted = greet_format.format(name)
 
 print(intrupution, formatted)
+
+
+# my edits
+
+greet = "Hello World"
+print(greet)
+
+extened_grt = "Hello World, " + "this is a long string"
+print(extened_grt)
+
+name = "Peter"
+intrupution = f"Hello {name}"
+print(intrupution)
+
+
+name = 'Andrew'
+greet_format = "Hello {}"
+formatted = greet_format.format(name)
+print(formatted)
